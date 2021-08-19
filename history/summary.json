@@ -4,46 +4,50 @@
     "url": "https://pavela.net",
     "icon": "https://favicons.githubusercontent.com/pavela.net",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 717,
     "timeDay": 685,
     "timeWeek": 710,
     "timeMonth": 717,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 2
+    }
   },
   {
     "name": "Git Server",
     "url": "https://git.pavela.net",
     "icon": "https://favicons.githubusercontent.com/git.pavela.net",
     "slug": "git-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1764,
     "timeDay": 851,
     "timeWeek": 891,
     "timeMonth": 1764,
     "timeYear": 1764,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 2
+    }
   },
   {
     "name": "Search Engine",
     "url": "https://search.pavela.net",
     "icon": "https://favicons.githubusercontent.com/search.pavela.net",
     "slug": "search-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
@@ -51,7 +55,9 @@
     "timeWeek": 721,
     "timeMonth": 737,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 1
+    }
   },
   {
     "name": "Nextcloud",
