@@ -4,19 +4,19 @@
     "url": "https://pavela.net",
     "icon": "https://favicons.githubusercontent.com/pavela.net",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 717,
-    "timeDay": 685,
+    "timeDay": 696,
     "timeWeek": 710,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2021-08-19": 2
+      "2021-08-19": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://git.pavela.net",
     "icon": "https://favicons.githubusercontent.com/git.pavela.net",
     "slug": "git-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1764,
-    "timeDay": 851,
-    "timeWeek": 891,
-    "timeMonth": 1764,
-    "timeYear": 1764,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1732,
+    "timeDay": 875,
+    "timeWeek": 892,
+    "timeMonth": 1732,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2021-08-19": 2
+      "2021-08-19": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://search.pavela.net",
     "icon": "https://favicons.githubusercontent.com/search.pavela.net",
     "slug": "search-engine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 707,
-    "timeWeek": 721,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 753,
+    "timeDay": 950,
+    "timeWeek": 780,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2021-08-19": 1
+      "2021-08-19": 9
     }
   },
   {
