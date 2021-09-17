@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 712,
-    "timeDay": 695,
-    "timeWeek": 710,
-    "timeMonth": 708,
-    "timeYear": 712,
+    "time": 713,
+    "timeDay": 760,
+    "timeWeek": 716,
+    "timeMonth": 710,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2021-08-31": 18
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/git.pavela.net",
     "slug": "git-server",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 1306,
-    "timeDay": 828,
-    "timeWeek": 910,
-    "timeMonth": 905,
-    "timeYear": 1306,
+    "uptimeYear": "99.98%",
+    "time": 1300,
+    "timeDay": 950,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 1300,
     "dailyMinutesDown": {
       "2021-08-31": 17
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 761,
-    "timeDay": 709,
-    "timeWeek": 723,
-    "timeMonth": 776,
+    "timeDay": 751,
+    "timeWeek": 718,
+    "timeMonth": 778,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2021-08-31": 17
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1214,
-    "timeDay": 1179,
-    "timeWeek": 1214,
-    "timeMonth": 1214,
-    "timeYear": 1214,
+    "time": 1222,
+    "timeDay": 1268,
+    "timeWeek": 1222,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {}
   },
   {
