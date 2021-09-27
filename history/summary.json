@@ -4,11 +4,11 @@
     "url": "https://pavela.net",
     "icon": "https://favicons.githubusercontent.com/pavela.net",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 713,
     "timeDay": 739,
@@ -16,6 +16,7 @@
     "timeMonth": 705,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2021-09-27": 2,
       "2021-08-31": 18
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://git.pavela.net",
     "icon": "https://favicons.githubusercontent.com/git.pavela.net",
     "slug": "git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1239,
@@ -36,6 +37,7 @@
     "timeMonth": 900,
     "timeYear": 1239,
     "dailyMinutesDown": {
+      "2021-09-27": 2,
       "2021-08-31": 17
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://search.pavela.net",
     "icon": "https://favicons.githubusercontent.com/search.pavela.net",
     "slug": "search-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 757,
@@ -56,6 +58,7 @@
     "timeMonth": 749,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2021-09-27": 1,
       "2021-08-31": 17
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://cloud.pavela.net",
     "icon": "https://favicons.githubusercontent.com/cloud.pavela.net",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1225,
@@ -75,7 +78,9 @@
     "timeWeek": 1238,
     "timeMonth": 1225,
     "timeYear": 1225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 1
+    }
   },
   {
     "name": "Jenkins",
