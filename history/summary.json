@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pavela.net.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "88.06%",
+    "uptime": "88.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "82.98%",
-    "time": 836,
-    "timeDay": 673,
-    "timeWeek": 690,
-    "timeMonth": 687,
+    "time": 835,
+    "timeDay": 609,
+    "timeWeek": 671,
+    "timeMonth": 684,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2023-07-27": 30,
@@ -89,8 +89,7 @@
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 851,
-      "2022-08-28": 15,
-      "2022-08-19": 16
+      "2022-08-28": 15
     }
   },
   {
@@ -99,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.pavela.net.ico",
     "slug": "git-server",
     "status": "down",
-    "uptime": "14.51%",
+    "uptime": "14.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 842,
+    "time": 843,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 877,
+    "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-08-18": 64,
+      "2023-08-19": 62,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -473,8 +473,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   },
   {
@@ -483,18 +482,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.pavela.net.ico",
     "slug": "search-engine",
     "status": "down",
-    "uptime": "35.52%",
+    "uptime": "35.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 850,
+    "time": 851,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-08-18": 64,
+      "2023-08-19": 62,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -857,8 +857,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   },
   {
@@ -867,18 +866,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.pavela.net.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "21.67%",
+    "uptime": "21.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 876,
+    "time": 877,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 864,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-08-18": 64,
+      "2023-08-19": 62,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1241,8 +1241,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   },
   {
@@ -1251,7 +1250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.pavela.net.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "26.89%",
+    "uptime": "26.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1260,9 +1259,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 10986,
+    "timeYear": 10989,
     "dailyMinutesDown": {
-      "2023-08-18": 64,
+      "2023-08-19": 62,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1625,8 +1625,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   }
 ]
