@@ -4,10 +4,10 @@
     "url": "https://pavela.net",
     "icon": "https://icons.duckduckgo.com/ip3/pavela.net.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "90.17%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "95.05%",
     "time": 788,
@@ -16,7 +16,7 @@
     "timeMonth": 1092,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-07-26": 15,
+      "2024-07-26": 17,
       "2024-07-23": 35,
       "2024-06-29": 31,
       "2024-06-17": 31,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-26": 635,
+      "2024-07-26": 697,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-26": 635,
+      "2024-07-26": 697,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -838,7 +838,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-26": 635,
+      "2024-07-26": 697,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-26": 635,
+      "2024-07-26": 697,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
