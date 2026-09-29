@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/pavela.net.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "63.08%",
-    "uptimeDay": "99.89%",
+    "uptime": "63.07%",
+    "uptimeDay": "61.15%",
     "uptimeWeek": "56.66%",
     "uptimeMonth": "11.13%",
     "uptimeYear": "3.11%",
     "time": 447,
-    "timeDay": 614,
+    "timeDay": 0,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 447,
@@ -331,7 +331,6 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
       "2026-09-24": 1229,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -370,7 +369,8 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1100,
-      "2026-09-28": 2
+      "2026-09-29": 299,
+      "2026-09-28": 260
     }
   },
   {
@@ -380,12 +380,12 @@
     "slug": "git-server",
     "status": "down",
     "uptime": "5.97%",
-    "uptimeDay": "99.91%",
+    "uptimeDay": "61.17%",
     "uptimeWeek": "56.66%",
     "uptimeMonth": "11.13%",
     "uptimeYear": "1.09%",
     "time": 327,
-    "timeDay": 366,
+    "timeDay": 0,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
@@ -750,8 +750,8 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2026-09-28": 1
+      "2026-09-29": 300,
+      "2026-09-28": 260
     }
   },
   {
@@ -760,13 +760,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.pavela.net.ico",
     "slug": "search-engine",
     "status": "down",
-    "uptime": "14.31%",
-    "uptimeDay": "99.93%",
+    "uptime": "14.30%",
+    "uptimeDay": "61.19%",
     "uptimeWeek": "56.67%",
     "uptimeMonth": "11.13%",
     "uptimeYear": "1.09%",
     "time": 335,
-    "timeDay": 361,
+    "timeDay": 0,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
@@ -1131,8 +1131,8 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2026-09-28": 1
+      "2026-09-29": 300,
+      "2026-09-28": 259
     }
   },
   {
@@ -1142,12 +1142,12 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "8.81%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "61.22%",
     "uptimeWeek": "56.67%",
     "uptimeMonth": "11.13%",
     "uptimeYear": "1.09%",
     "time": 401,
-    "timeDay": 428,
+    "timeDay": 0,
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
@@ -1512,8 +1512,8 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2026-09-28": 1
+      "2026-09-29": 300,
+      "2026-09-28": 259
     }
   },
   {
@@ -1523,12 +1523,12 @@
     "slug": "jenkins",
     "status": "down",
     "uptime": "10.88%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "61.24%",
     "uptimeWeek": "56.67%",
     "uptimeMonth": "11.13%",
     "uptimeYear": "1.09%",
     "time": 317,
-    "timeDay": 391,
+    "timeDay": 0,
     "timeWeek": 317,
     "timeMonth": 317,
     "timeYear": 317,
@@ -1893,8 +1893,8 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2026-09-28": 0
+      "2026-09-29": 300,
+      "2026-09-28": 258
     }
   }
 ]
